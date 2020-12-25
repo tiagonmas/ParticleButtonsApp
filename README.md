@@ -5,6 +5,6 @@ This app allows you to crete multiple buttons to control your Photon, Code, etc 
 
 # Issues using the app ?
 
-Please create a new issue in this github repository
+If you have any issues using the app, please create a [new issue](https://github.com/tiagonmas/ParticleButtonsApp/issues)
 
 
